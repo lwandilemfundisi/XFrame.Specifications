@@ -1,5 +1,5 @@
-﻿using XFrame.Specifications.Extensions;
-using XFrame.Specifications.Notifications;
+﻿using XFrame.Notifications;
+using XFrame.Notifications.Extensions;
 
 namespace XFrame.Specifications
 {

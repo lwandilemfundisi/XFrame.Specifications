@@ -1,6 +1,6 @@
 ﻿using System.Linq.Expressions;
 using XFrame.Common.Extensions;
-using XFrame.Specifications.Notifications;
+using XFrame.Notifications;
 
 namespace XFrame.Specifications
 {

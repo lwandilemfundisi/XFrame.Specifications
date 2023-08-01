@@ -1,4 +1,4 @@
-﻿using XFrame.Specifications.Notifications;
+﻿using XFrame.Notifications;
 
 namespace XFrame.Specifications
 {
